@@ -1,4 +1,11 @@
 ## Hi there 👋
+# 👋 Hi, I'm Pavan Kumar
+
+🎓 I'm a Java developer currently learning full-stack development  
+💡 Skilled in Java, Spring Boot, MySQL, HTML, CSS, JavaScript  
+🔭 I’m working on my personal portfolio website  
+📫 Reach me at: chelluboina5@gmail.com  
+🌐 Portfolio: [Coming Soon](https://Cyber-Cp.github.io/portfolio-website/)  
 
 <!--
 **CP-dev5/Cp-dev5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
